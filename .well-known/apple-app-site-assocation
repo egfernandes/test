@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+    {
+      "appID": "1501592161.br.com.coteminas.persono",
+      "paths": ["*"]
+    }
+    ]
+  }
+}
