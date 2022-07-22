@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "br.com.coteminas.persono",
+      "sha256_cert_fingerprints":
+        ["6F:EC:C1:C6:EE:F4:99:93:AB:57:99:26:C7:BB:5F:43:A3:DB:FA:0A:66:DB:EB:C0:2C:C0:1A:65:81:0B:E8:A1"]
+    }
+  }
+]
